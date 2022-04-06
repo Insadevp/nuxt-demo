@@ -1,0 +1,23 @@
+{
+  "id": "c980fb8c-f1f2-40d9-93d7-76cc0b970bd1",
+  "uid": "sint-pariatur-illo",
+  "type": "Homepage",
+  "data": {
+    "title": [
+      {
+        "type": "paragraph",
+        "text": "Aute occaecat qui exercitation amet nulla deserunt cupidatat anim tempor. Exercitation Lorem consectetur do esse veniam duis consectetur est anim duis esse.",
+        "spans": []
+      }
+    ],
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1587653915936-5623ea0b949a?w=900&h=500&fit=crop"
+    }
+  }
+}

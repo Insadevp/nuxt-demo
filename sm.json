@@ -1,0 +1,7 @@
+{
+  "_latest": "0.3.3",
+  "apiEndpoint": "https://projet-nuxt1.prismic.io/api/v2",
+  "libraries": [
+    "@/slices"
+  ]
+}

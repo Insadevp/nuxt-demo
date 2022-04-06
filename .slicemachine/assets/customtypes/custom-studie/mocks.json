@@ -1,0 +1,21 @@
+{
+  "id": "47558248-20b8-43b3-afdc-f3dabf8ba502",
+  "uid": "rerum-autem-sed",
+  "type": "custom-studie",
+  "data": {
+    "title": [
+      {
+        "type": "paragraph",
+        "text": "Irure ad velit dolor cupidatat. In sunt non id occaecat deserunt. Consectetur minim adipisicing nulla cupidatat veniam deserunt dolore.",
+        "spans": []
+      }
+    ],
+    "text": [
+      {
+        "type": "paragraph",
+        "text": "Dolor aliquip sit duis ex consectetur aute excepteur. Reprehenderit laboris veniam sit Lorem laborum ea exercitation sit eiusmod enim est.",
+        "spans": []
+      }
+    ]
+  }
+}

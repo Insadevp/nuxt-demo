@@ -1,0 +1,9 @@
+{
+  "id": "custom-clients",
+  "label": "articles",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {}
+  }
+}

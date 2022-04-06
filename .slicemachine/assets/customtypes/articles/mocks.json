@@ -1,0 +1,21 @@
+{
+  "id": "9973187d-fb4d-412c-a67a-93e1691922f6",
+  "uid": "officia-doloremque-quidem",
+  "type": "articles",
+  "data": {
+    "title": [
+      {
+        "type": "paragraph",
+        "text": "Amet cillum pariatur cillum laboris mollit. Lorem minim nulla ea irure sit.",
+        "spans": []
+      }
+    ],
+    "desc": [
+      {
+        "type": "paragraph",
+        "text": "Enim sunt labore laboris sunt nisi consequat elit sunt ex ullamco anim. In laborum enim laborum consequat elit cillum exercitation in non exercitation.",
+        "spans": []
+      }
+    ]
+  }
+}
